@@ -1,0 +1,15 @@
+transformers==4.33.2
+psycopg2==2.8.6
+psycopg2-binary
+googletrans==4.0.0rc1
+wget==3.2
+tensorflow==2.9.1
+keras==2.9.0
+pyidaungsu==0.1.4
+sklearn
+matplotlib
+google-api-python-client==2.86.0
+sqlalchemy==1.4.32
+pandas==1.5.3
+isodate==0.6.1
+google==3.0.0
