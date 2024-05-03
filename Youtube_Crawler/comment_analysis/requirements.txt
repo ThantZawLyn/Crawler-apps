@@ -1,9 +1,9 @@
-transformers==4.33.2
+transformers==4.38.0
 psycopg2==2.8.6
 psycopg2-binary
 googletrans==4.0.0rc1
 wget==3.2
-tensorflow==2.9.1
+tensorflow==2.11.1
 keras==2.9.0
 pyidaungsu==0.1.4
 sklearn
